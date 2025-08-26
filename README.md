@@ -2,14 +2,13 @@
 
 🎯 **Desenvolvedor Backend** formado pela Residência Técnica Serratec.  
 💻 Apaixonado por **Java | Spring Boot | APIs REST | MySQL**.  
-📚 Estudando **Docker | CI/CD | React** para ampliar meu stack.  
+📚 Atualmente aprendendo **Docker | CI/CD | React** para ampliar meu stack.  
 
 ---
 
 ## 🚀 Tecnologias
 - **Backend:** Java, Spring Boot, JPA, MySQL  
-- **DevOps:** Docker, GitHub Actions (CI/CD)  
-- **Frontend (aprendizado):** React  
+- **Em aprendizado:** Docker, GitHub Actions (CI/CD), React  
 
 ---
 
@@ -19,4 +18,4 @@
 
 ---
 
-⭐ Veja meus projetos fixados abaixo!
+⭐ Veja meus projetos fixados abaixo! 
