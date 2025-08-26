@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus Ruella!
 
-<!--
-**matheusruella/matheusruella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Backend** formado pela Residência Técnica Serratec.  
+💻 Apaixonado por **Java | Spring Boot | APIs REST | MySQL**.  
+📚 Estudando **Docker | CI/CD | React** para ampliar meu stack.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- **Backend:** Java, Spring Boot, JPA, MySQL  
+- **DevOps:** Docker, GitHub Actions (CI/CD)  
+- **Frontend (aprendizado):** React  
+
+---
+
+## 🔗 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/matheus-ruella-73769a343/)  
+- [Email](matheusruella7@gmail.com)  
+
+---
+
+⭐ Veja meus projetos fixados abaixo!
